@@ -49,3 +49,10 @@ float: right;
 color: #ff7700;
 }
 
+h3{
+    text-align: left;
+}
+
+.column{
+    text-align: center;
+}
