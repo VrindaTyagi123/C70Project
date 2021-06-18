@@ -56,3 +56,144 @@ h3{
 .column{
     text-align: center;
 }
+
+.book
+{
+  cursor: pointer;
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+.p_rajma{
+    color: blue;
+}
+
+.p_kadhi{
+    color: crimson;
+}
+
+.p_chole{
+    color: darkorchid;
+}
+
+.p_pasta{
+    color: orangered;
+}
+
+.p_sandwich{
+    color: fuchsia;
+}
+
+.p_veg{
+    color: green;
+}
+
+.p_list-group-item-text{
+    color: hotpink;
+}
+
+.p_more{
+    color: deepskyblue;
+}
+
+.p_school{
+    color: black;
+}
+
+.p_app{
+    color: black;
+}
+
+.p_list-group-item-text{
+    color: darkorange
+}
+
+.p_news{
+    color: mediumpurple;
+}
+
+.p_notice{
+    color: firebrick;
+}
+
+.p_homework{
+    color: forestgreen;
+}
+
+.p_class{
+    color: sandybrown;
+}
+
+.p_content{
+    color: gold;
+}
+
+.p_plan{
+    color: magenta;
+}
+
+.p_attendance{
+    color: lightsalmon;
+}
+
+.p_fee{
+    color: crimson;
+}
+
+.p_diary{
+    color: darkred;
+}
+
+.p_syllabus{
+    color: plum;
+}
+
+.p_exam{
+    color: navy;
+}
+
+.p_calender{
+    color: indigo;
+}
+
+.environment_li
+{
+  margin-top: 13px;
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+  border-radius: 25px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
